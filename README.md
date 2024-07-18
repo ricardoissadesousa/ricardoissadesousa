@@ -1,5 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-![image](https://github.com/user-attachments/assets/388ae453-4bae-4c7b-b852-dee2bacba2da)
+<div align="center">
+  <img height="200" src="https://www.canva.com/design/DAFp2ZYEOpM/rsrj3NPfOPTor21m0QhpPw/edit"  />
+</div>
 
 ###
 
