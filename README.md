@@ -1,4 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+![image](https://github.com/user-attachments/assets/388ae453-4bae-4c7b-b852-dee2bacba2da)
 
 ###
 
