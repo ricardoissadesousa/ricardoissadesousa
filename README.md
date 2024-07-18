@@ -67,8 +67,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
   </a>
   <a href="https://www.instagram.com/ricardo_issa04?utm_source=qr&igsh=MXJqYXV1bmgyazlpZA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
 </div>
 
 ###
