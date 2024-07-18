@@ -1,9 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<div align="center">
-  <img height="200" src="https://www.canva.com/design/DAFp2ZYEOpM/rsrj3NPfOPTor21m0QhpPw/edit?utm_content=DAFp2ZYEOpM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
-</div>
-###
 
 
 
