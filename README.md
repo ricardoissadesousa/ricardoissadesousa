@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🌟 Dedicação e Esforço:
+<h2 align="left">🌟 Eu Pessoal :
 
 Pessoa dedicada e esforçada, com vontade de sempre aprender mais.
 
