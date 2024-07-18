@@ -6,36 +6,31 @@
 
 ###
 
-<h2 align="left">****Eu pessoal *****
+<h2 align="left">🌟 Dedicação e Esforço:
 
 Pessoa dedicada e esforçada, com vontade de sempre aprender mais.
-
-***** Formação Acadêmica ******
+📚 Formação Acadêmica:
 
 Estudante de Sistema de Informação no Instituto Federal de Urutaí.
-
-****** Conhecimentos em Programação *****
+💻 Conhecimentos em Programação:
 
 Básicos em Java, focado em aprendizado prático.
 Interesse em desenvolvimento de aplicativos para Android e iOS.
-
-****** Projeto Atual ******
+🛠️ Projeto Atual:
 
 Desenvolvendo uma aplicação de Loja de Roupas em Java.
 Implementando interfaces gráficas com JFrame.
 Criando funcionalidades como tela de login.
-
-***** Certificados *****
+🎓 Certificados Desejados:
 
 API Gemini do Google.
 Android Enterprise Associate.
 Java básico ao avançado.
-
-****** Interesses e Objetivos *****
+🚀 Interesses e Objetivos:
 
 Explorar diversas áreas da tecnologia.
 Aprimorar habilidades em desenvolvimento móvel.
-Buscar novas formas de aprender e se desenvolver na área de TI..</h2>
+Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 
 ###
 
