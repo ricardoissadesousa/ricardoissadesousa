@@ -1,5 +1,5 @@
  <img height="200" src="https://s4.aconvert.com/convert/p3r68-cdx67/a47gp-saztj.jpg"  />
-<a href="https://tenor.com/view/welcome-gif-25578371">Welcome GIF</a>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
