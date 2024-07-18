@@ -20,7 +20,7 @@ Estudante de Sistema de Informação no Instituto Federal de Urutaí.
 💻 Conhecimentos em Programação:
 
 Básicos em Java, focado em aprendizado prático.
-Interesse em desenvolvimento de aplicativos para Android e iOS.
+Interesse em desenvolvimento Backend.
 
 
 🛠️ Projeto Atual:
