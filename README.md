@@ -6,7 +6,31 @@
 
 ###
 
-<h2 align="left">Olá! Sou um estudante de Sistema de Informação no Instituto Federal de Urutaí. Estou cursando atualmente, e tenho conhecimentos básicos em programação, especialmente na linguagem Java. Gosto de explorar diferentes áreas da tecnologia, mas estou particularmente interessado no desenvolvimento de aplicativos para Android e iOS. Estou trabalhando em um projeto de Loja de Roupas em Java, onde estou aprendendo a implementar interfaces gráficas com JFrame e criar funcionalidades como uma tela de login. Além disso, estou sempre buscando novas formas de aprimorar minhas habilidades e conhecimentos na área de TI.</h2>
+<h2 align="left">Eu pessoal:
+
+Pessoa dedicada e esforçada, com vontade de sempre aprender mais.
+Formação Acadêmica:
+
+Estudante de Sistema de Informação no Instituto Federal de Urutaí.
+Conhecimentos em Programação:
+
+Básicos em Java, focado em aprendizado prático.
+Interesse em desenvolvimento de aplicativos para Android e iOS.
+Projeto Atual:
+
+Desenvolvendo uma aplicação de Loja de Roupas em Java.
+Implementando interfaces gráficas com JFrame.
+Criando funcionalidades como tela de login.
+Certificados Desejados:
+
+API Gemini do Google.
+Android Enterprise Associate.
+Java básico ao avançado.
+Interesses e Objetivos:
+
+Explorar diversas áreas da tecnologia.
+Aprimorar habilidades em desenvolvimento móvel.
+Buscar novas formas de aprender e se desenvolver na área de TI..</h2>
 
 ###
 
