@@ -20,7 +20,7 @@ Estudante de Sistema de Informação no Instituto Federal de Urutaí.
 💻 Conhecimentos em Programação:
 
 Básicos em Java, focado em aprendizado prático.
-Interesse em desenvolvimento React native .
+Interesse em desenvolvimento React Native .
 
 
 🛠️ Projeto Atual:
