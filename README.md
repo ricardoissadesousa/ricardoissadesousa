@@ -1,6 +1,5 @@
 
- <img height="200" src="https://s4.aconvert.com/convert/p3r68-cdx67/a47gp-saztj.jpg](https://img.freepik.com/fotos-gratis/tela-abstrata-do-codigo-de-programacao-do-desenvolvedor-de-software_43284-71.jpg?size=626&ext=jpg)"  />
-
+ <img align="right" height="150" src="https://tse3.mm.bing.net/th?id=OIP.2LHgIppz4BOm6EOmyLluqgHaD4&pid=Api&P=0&h=180"  />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
