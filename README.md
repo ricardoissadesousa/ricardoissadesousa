@@ -22,7 +22,7 @@ Estudante de Sistema de Informação no Instituto Federal de Urutaí.
 
 💻 Conhecimentos em Programação:
 
-Básicos em Java, Básico em JavaScript, focado em aprendizado prático.
+Básicos em Java, Básico em JavaScript, HTML, CSS.
 Interesse em desenvolvimento React Native .
 
 
