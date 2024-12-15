@@ -17,7 +17,7 @@ Pessoa dedicada e esforçada, com vontade de sempre aprender mais.
 
 📚 Formação Acadêmica:
 
-Estudante de Sistema de Informação no Instituto Federal de Urutaí.
+Estudante de Sistema de Informação no Instituto Federal Goiano Campus Urutaí.
 
 
 💻 Conhecimentos em Programação:
