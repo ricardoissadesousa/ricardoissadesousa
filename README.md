@@ -1,12 +1,12 @@
 
 
  
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 
 
 
-<h1 align="left">My name is  Ricardo and I'm a um Estudante de Programação</p>
+<h1 align="left">Meu nome é Ricardo e sou um Estudante de Programação</p>
 
 ###
 
