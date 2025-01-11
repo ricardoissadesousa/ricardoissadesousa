@@ -108,6 +108,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
   <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
   <img alt="Eclipse" height="60" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2048px-Eclipse-Luna-Logo.svg.png">
   <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
+  <img src="./icons/Eclipse-Dark.svg" height="60" width="60">
 
 </p>
 
