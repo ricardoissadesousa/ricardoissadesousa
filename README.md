@@ -108,25 +108,18 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 ### Frameworks and Libraries
 <p>
  
-  <img alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  
   <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
 </p>
 
 ### Tools and Platforms
 <p>
   <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
-  <img alt="Photoshop" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
+  
   <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
 </p>
 
-<!-- Status -->
-## 📊 GitHub Stats: 
-<div>
-  <a href="https://github.com/ViictorrMillan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorrMillan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </a>
-</div>
+
 
 <!-- Snake -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Contributions:
