@@ -56,17 +56,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 
 <h2 align="left">I code with</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
- 
-</div>
-
-###
 
 
 <div align="left">
@@ -81,14 +71,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 
 
   
-  <a href="https://www.linkedin.com/in/ricardo-issa-de-sousa-792560261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/qr/UFEBGX24PUCMH1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.instagram.com/ricardo_issa04?utm_source=qr&igsh=MXJqYXV1bmgyazlpZA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+ 
 
   
 </div>
