@@ -1,5 +1,10 @@
 
- read da pagina principal do git 
+ <
+<p align="center">
+  
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&background=000000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo!;Explore+meus+projetos+%F0%9F%8E%80;Divirta-se!+%F0%9F%98%83" alt="Typing SVG" />
+</p>
 
 
  
