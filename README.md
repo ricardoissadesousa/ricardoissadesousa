@@ -8,7 +8,7 @@
 
 
 
-<h1 align="left">Meu nome é Ricardo e sou um Estudante de Programação</p>
+<h1 align="left">Meu nome é Ricardo, sou um Estudante de Programação</p>
 
 ###
 
