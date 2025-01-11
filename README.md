@@ -2,9 +2,7 @@
 
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo!" alt="Typing SVG" />
-
-</
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo!" alt="Typing SVG" />
 </p>
 
  
