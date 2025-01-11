@@ -1,8 +1,8 @@
 
 
-![Banner](https://i.imgur.com/sFrUMFV.png)
 
-# 💙 Seja Bem-Vindo ao Meu Repositório! 💙
+
+#  Seja Bem-Vindo ao Meu Repositório! 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=60&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo!" alt="Typing SVG" />
