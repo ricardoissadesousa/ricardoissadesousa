@@ -1,18 +1,8 @@
 
 
-<h1 style="text-align: center;">
-  <span id="welcomeText">Seja Bem-Vindo!</span>
-</h1>
-
-<script>
-  const welcomeText = document.getElementById('welcomeText');
-  let isVisible = true;
-
-  setInterval(() => {
-    welcomeText.style.visibility = isVisible ? 'hidden' : 'visible';
-    isVisible = !isVisible;
-  }, 1000); // Altera a visibilidade a cada 1 segundo
-</script>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=60&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo!" alt="Typing SVG" />
+</p>
 
 
  
