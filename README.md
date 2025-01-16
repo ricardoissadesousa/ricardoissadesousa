@@ -90,7 +90,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 
 <img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
 
-### Languages and Technologies
+### Línguagens e Tecnologias
 <p>
   <img alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
@@ -99,14 +99,14 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
   
 </p>
 
-### Frameworks and Libraries
+### Banco de Dados
 <p>
  
   
   <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
 </p>
 
-### Tools and Platforms
+### Ferramentas e Plataformas
 <p>
   <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
   <img alt="Eclipse" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg">
@@ -117,7 +117,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 
 
 
-<!-- Snake -->
+<!-- Cobrinha -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Contributions:
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
 
