@@ -38,9 +38,7 @@ Interesse em desenvolvimento React Native .
 
 🛠️ Projeto Atual:
 
-Desenvolvendo uma aplicação de Loja de Roupas em Java.
-Implementando interfaces gráficas com JFrame.
-Criando funcionalidades como tela de login.
+Desenvolvendo uma aplicação de controle de carga de caminhão em javaScript, HTML,CSS e Banco de Dados .
 
 
 🎓 Certificados :
