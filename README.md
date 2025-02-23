@@ -32,8 +32,8 @@ Estudante de Sistema de Informação no Instituto Federal Goiano Campus Urutaí.
 
 💻 Conhecimentos em Programação:
 
-Básicos em Java, Básico em JavaScript, HTML, CSS.
-Interesse em desenvolvimento React Native .
+ Java(Básicos), JavaScript(Básicos), HTML, CSS.
+Interesse em desenvolvimento Web Beck-end  .
 
 
 🛠️ Projeto Atual:
