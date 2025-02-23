@@ -104,6 +104,8 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
  
   
   <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
+  <img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+
 </p>
 
 ### Ferramentas e Plataformas
