@@ -86,7 +86,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 </div>
 <!-- Skills -->
 
-<img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
+
 
 ### Línguagens e Tecnologias
 <p>
