@@ -94,6 +94,7 @@ Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
   <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
   <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+  <img alt="Spring Boot" height="60" width="60" src="https://skillicons.dev/icons?i=spring&theme=dark">
   
 
   
