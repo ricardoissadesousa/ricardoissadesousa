@@ -15,44 +15,38 @@
 
 
 
-<h1 align="left">Meu nome é Ricardo, sou um Estudante de Programação</p>
+<h1 align="left">Meu nome é Ricardo Issa </p>
 
 ###
 
-<h2 align="left">🌟 Eu Pessoal :
-
-Pessoa dedicada e esforçada, com vontade de sempre aprender mais.
 
 
 📚 Formação Acadêmica:
 
 Estudante de Sistema de Informação no Instituto Federal Goiano Campus Urutaí.
-6/8
 
+7/8
 
-💻 Conhecimentos em Programação:
-
- Java(Básicos), JavaScript(Básicos), HTML, CSS.
-Interesse em desenvolvimento Web Beck-end  .
-
-
-🛠️ Projeto Atual:
-
-Desenvolvendo uma aplicação de controle de carga de caminhão em javaScript, HTML,CSS e Banco de Dados .
 
 
 🎓 Certificados :
 
-API Gemini do Google.
-Android Enterprise Associate.
-Java básico ao avançado.
+Java Fundamentos na FIAP
+
+Git e GitHub do básico ao avançado (c/gist eGitHUb Pages) na Udemy
+
+Curso Java básico ao avançado: aprendendo java na Udemy
+
+Gestão de Projetos e fundamentos de métodos Agile
+
+Inteligência Artificial e Computacional FIAP
+
+Google Android Enterprise Certified Associate
+
+DOCKER Completo do Zero ao Avançado da empresa Udemy
 
 
-🚀 Interesses e Objetivos:
 
-Explorar diversas áreas da tecnologia.
-Aprimorar habilidades em desenvolvimento móvel.
-Buscar novas formas de aprender e se desenvolver na área de TI.</h2>
 
 ###
 
